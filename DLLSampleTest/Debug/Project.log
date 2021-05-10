@@ -1,0 +1,9 @@
+﻿  Assembling main.asm...
+main.asm(539): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(539): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(539): warning A6004: procedure argument or local not referenced : lpReserved
+  Project.vcxproj -> C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\DLLSampleTest\Debug\Project.dll
+  C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\DLLSampleTest\Debug\Project.dll
+  1 File(s) copied
+  C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\DLLSampleTest\Debug\Project.dll
+  1 File(s) copied
